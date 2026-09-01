@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend • APIs • DevOps • Software Development
+ Frontend • Backend • APIs • DevOps • Software Development
 </p>
 
 <p align="center">
@@ -142,10 +142,8 @@ Estou continuamente aprofundando meus conhecimentos em:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BigodeMarine&show_icons=true&theme=github_dark&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigodeMarine&layout=compact&theme=github_dark&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=BigodeMarine&theme=github-dark-blue&hide_border=true" />
 </p>
----
 
 ## ⚙️ Filosofia
 
