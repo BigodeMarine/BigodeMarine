@@ -31,7 +31,7 @@ Gosto de transformar problemas em soluções de software bem estruturadas, busca
 
 Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem parte do desenvolvimento de aplicações modernas, desde a construção da API até **bancos de dados, containers, testes, CI/CD e infraestrutura**.
 
-> ⚙️ *"The Machine is pleased."*
+> ⚙️ *"The code must flow. The machine must function. The Machine Spirit must be pleased."*
 
 ---
 
@@ -145,7 +145,7 @@ Estou continuamente aprofundando meus conhecimentos em:
   <img src="https://streak-stats.demolab.com?user=BigodeMarine&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## ⚙️ Filosofia
+## Minha Filosofia
 
 ```text
 Entenda o problema.
@@ -156,11 +156,6 @@ Automatize-o.
 Melhore-o.
 ```
 
-Não busco apenas fazer o código funcionar.
-
-Procuro entender **o problema, as decisões técnicas e as consequências de cada solução**, sempre buscando evoluir a qualidade dos projetos que desenvolvo.
-
----
 
 ## Contato
 
@@ -176,6 +171,6 @@ Procuro entender **o problema, as decisões técnicas e as consequências de cad
 ---
 
 <p align="center">
-  ⚙️ <i>Building software. Learning continuously. Improving every day.</i> ⚙️
+  ⚙️ <i>By knowledge, we advance. By code, we build. By the Omnissiah, we improve.</i> ⚙️
 </p>
 
