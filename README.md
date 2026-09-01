@@ -145,18 +145,17 @@ Estou continuamente aprofundando meus conhecimentos em:
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BigodeMarine&show_icons=true&theme=github_dark&hide_border=true">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigodeMarine&layout=compact&theme=github_dark&hide_border=true">
 </p>
-
 ---
 
 ## ⚙️ Filosofia
 
 ```text
-Understand the problem.
-Design the solution.
-Write clean code.
-Test it.
-Automate it.
-Improve it.
+Entenda o problema.
+Projete a solução.
+Escreva código limpo.
+Teste-o.
+Automatize-o.
+Melhore-o.
 ```
 
 Não busco apenas fazer o código funcionar.
@@ -165,7 +164,7 @@ Procuro entender **o problema, as decisões técnicas e as consequências de cad
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://github.com/BigodeMarine">
