@@ -1,16 +1,184 @@
-<h3 align="center"></h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/BigodeMarine" alt="bigodemarine" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="./assets/Praisetheominissiah.png" width="650">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">⚙️ Edson Luiz Garcia Portela</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langsBigodeMarine&show_icons=true&locale=en&layout=compact" alt="bigodemarine" /></p>
+<p align="center">
+  <strong>Desenvolvedor Full Stack Python</strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/apiBigodeMarine&show_icons=true&locale=en" alt="bigodemarine" /></p>
+<p align="center">
+  Backend • APIs • DevOps • Software Development
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BigodeMarine&" alt="bigodemarine" /></p>
+<p align="center">
+  <a href="https://github.com/BigodeMarine">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/edson-luiz-garcia-portela-b6a8362b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+##  Sobre mim
+
+Sou **Desenvolvedor Full Stack Python**, atualmente direcionando meu foco para **Backend e desenvolvimento de APIs**.
+
+Gosto de transformar problemas em soluções de software bem estruturadas, buscando escrever código **organizado, modular e de fácil manutenção**.
+
+Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem parte do desenvolvimento de aplicações modernas, desde a construção da API até **bancos de dados, containers, testes, CI/CD e infraestrutura**.
+
+> ⚙️ *"The Machine is pleased."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
+</p>
+
+### 🐳 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+</p>
+
+---
+
+##  Projetos em destaque
+
+### 🔴 Pokémon API
+
+API REST desenvolvida com **FastAPI**, integrada à PokeAPI e estruturada utilizando boas práticas de desenvolvimento backend.
+
+O projeto conta com persistência em PostgreSQL, cache com Redis, migrations, testes automatizados, Docker, Kubernetes e pipeline de CI/CD.
+
+**Stack:**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `Docker` `Kubernetes` `Pytest` `GitHub Actions`
+
+🔗 **[Ver projeto →](https://github.com/BigodeMarine/Pokemon-API)**
+
+---
+
+### 📔 PWA Diário de Bordo
+
+Aplicação web progressiva desenvolvida para criação e gerenciamento de registros pessoais diretamente no navegador.
+
+O projeto utiliza armazenamento local e recursos de PWA para proporcionar uma experiência semelhante a uma aplicação instalada.
+
+**Stack:**
+
+`HTML` `CSS` `JavaScript` `PWA` `LocalStorage` `Service Worker`
+
+🔗 **[Ver projeto →](https://github.com/BigodeMarine/pwa-project)**
+
+---
+
+### 🌐 Portfólio
+
+Portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos e projetos como desenvolvedor.
+
+**Stack:**
+
+`Next.js` `React` `TypeScript` `CSS Modules`
+
+🔗 **[Veja →](https://portfolio-full-stack-python.vercel.app)**
+
+---
+
+##  Atualmente focado em
+
+```text
+                    SOFTWARE DEVELOPMENT
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+          BACKEND                       DEVOPS
+             │                             │
+       ┌─────┼─────┐                ┌──────┼──────┐
+       │     │     │                │      │      │
+    Python FastAPI SQL           Docker Kubernetes CI/CD
+       │     │     │
+       └─────┼─────┘
+             │
+      PostgreSQL / Redis
+             │
+        Testing / APIs
+```
+
+Estou continuamente aprofundando meus conhecimentos em:
+
+* 🐍 Python e desenvolvimento backend
+* ⚡ APIs REST com FastAPI
+* 🗄️ PostgreSQL e SQLAlchemy
+* 🔴 Redis e sistemas de cache
+* 🧪 Testes automatizados
+* 🐳 Docker e containers
+* ☸️ Kubernetes
+* 🔄 CI/CD e GitHub Actions
+* 🏗️ Arquitetura e boas práticas de desenvolvimento
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BigodeMarine&show_icons=true&theme=github_dark&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigodeMarine&layout=compact&theme=github_dark&hide_border=true">
+</p>
+
+---
+
+## ⚙️ Filosofia
+
+```text
+Understand the problem.
+Design the solution.
+Write clean code.
+Test it.
+Automate it.
+Improve it.
+```
+
+Não busco apenas fazer o código funcionar.
+
+Procuro entender **o problema, as decisões técnicas e as consequências de cada solução**, sempre buscando evoluir a qualidade dos projetos que desenvolvo.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/BigodeMarine">
+    <img src="https://img.shields.io/badge/GitHub-BigodeMarine-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/edson-luiz-garcia-portela-b6a8362b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Portela-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚙️ <i>Building software. Learning continuously. Improving every day.</i> ⚙️
+</p>
+
