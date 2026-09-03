@@ -35,6 +35,9 @@ Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem par
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BigodeMarine&langs_count=5&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=BigodeMarine&langs_count=5&theme=maroongold) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)
+
 ## 🛠️ Tech Stack
 
 ### 🐍 Backend
@@ -138,12 +141,6 @@ Estou continuamente aprofundando meus conhecimentos em:
 * 🏗️ Arquitetura e boas práticas de desenvolvimento
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BigodeMarine&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ## Minha Filosofia
 
