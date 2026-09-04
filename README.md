@@ -33,8 +33,9 @@ Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem par
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)
 
 ---
-
-> ⚙️ *"The code must flow. The machine must function. The Machine Spirit must be pleased."*
+<p align="center">
+ ⚙️ *"The code must flow. The machine must function. The Machine Spirit must be pleased."*
+</p>
 <p align="center">
   <img src="./assets/Praisetheominissiah.png" width="650">
 </p>
@@ -111,31 +112,31 @@ Portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos
 
 ---
 
-##  Atualmente focado em
+## Atualmente focado em
 
 ```text
-                    SOFTWARE DEVELOPMENT
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-          BACKEND                       DEVOPS
-             │                             │
-       ┌─────┼─────┐                ┌──────┼──────┐
-       │     │     │                │      │      │
-    Python FastAPI SQL           Docker Kubernetes CI/CD
-       │     │     │
-       └─────┼─────┘
-             │
-      PostgreSQL / Redis
-             │
-        Testing / APIs
+                         FULL STACK
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+           FRONTEND       BACKEND         DEVOPS
+              │              │              │
+        ┌─────┼─────┐   ┌────┼─────┐   ┌─────┼─────┐
+        │     │     │   │    │     │   │     │     │
+      HTML   CSS  React Python FastAPI SQL Docker Kubernetes
+        │     │     │   │    │     │   │     │     │
+   JavaScript Next.js  │ PostgreSQL SQLAlchemy CI/CD
+        │     │         │    │
+   TypeScript CSS       │  Redis
+   Modules              │
+                        └── Testing / APIs
 ```
-
 Estou continuamente aprofundando meus conhecimentos em:
 
+* 🎨 Frontend com HTML, CSS, JavaScript, TypeScript, React e Next.js
 * 🐍 Python e desenvolvimento backend
 * ⚡ APIs REST com FastAPI
-* 🗄️ PostgreSQL e SQLAlchemy
+* 🗄️ PostgreSQL, SQL e SQLAlchemy
 * 🔴 Redis e sistemas de cache
 * 🧪 Testes automatizados
 * 🐳 Docker e containers
@@ -144,7 +145,6 @@ Estou continuamente aprofundando meus conhecimentos em:
 * 🏗️ Arquitetura e boas práticas de desenvolvimento
 
 ---
-
 ## Minha Filosofia
 
 ```text
