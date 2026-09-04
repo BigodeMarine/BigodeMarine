@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BigodeMarine">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:edson15a7x@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/edson-luiz-garcia-portela-b6a8362b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -157,8 +157,8 @@ Melhore-o.
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/BigodeMarine">
-    <img src="https://img.shields.io/badge/GitHub-BigodeMarine-181717?style=for-the-badge&logo=github">
+  <a href="mailto:edson15a7x@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/edson-luiz-garcia-portela-b6a8362b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Edson%20Portela-0A66C2?style=for-the-badge&logo=linkedin">
