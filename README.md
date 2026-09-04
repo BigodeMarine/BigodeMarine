@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/Praisetheominissiah.png" width="650">
-</p>
-
 <h1 align="center">⚙️ Edson Luiz Garcia Portela</h1>
 
 <p align="center">
@@ -107,6 +103,10 @@ Portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos
 🔗 **[Veja →](https://portfolio-full-stack-python.vercel.app)**
 
 ---
+
+<p align="center">
+  <img src="./assets/Praisetheominissiah.png" width="650">
+</p>
 
 ##  Atualmente focado em
 
