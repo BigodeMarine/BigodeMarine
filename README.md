@@ -27,12 +27,19 @@ Gosto de transformar problemas em soluções de software bem estruturadas, busca
 
 Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem parte do desenvolvimento de aplicações modernas, desde a construção da API até **bancos de dados, containers, testes, CI/CD e infraestrutura**.
 
-> ⚙️ *"The code must flow. The machine must function. The Machine Spirit must be pleased."*
-
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BigodeMarine&langs_count=5&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=BigodeMarine&langs_count=5&theme=maroongold) 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=BigodeMarine&show_icons=true&include_all_commits=true&theme=maroongold)
+
+---
+
+> ⚙️ *"The code must flow. The machine must function. The Machine Spirit must be pleased."*
+<p align="center">
+  <img src="./assets/Praisetheominissiah.png" width="650">
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -103,10 +110,6 @@ Portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos
 🔗 **[Veja →](https://portfolio-full-stack-python.vercel.app)**
 
 ---
-
-<p align="center">
-  <img src="./assets/Praisetheominissiah.png" width="650">
-</p>
 
 ##  Atualmente focado em
 
