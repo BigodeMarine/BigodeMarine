@@ -145,17 +145,6 @@ Estou continuamente aprofundando meus conhecimentos em:
 * 🏗️ Arquitetura e boas práticas de desenvolvimento
 
 ---
-## Minha Filosofia
-
-```text
-Entenda o problema.
-Projete a solução.
-Escreva código limpo.
-Teste-o.
-Automatize-o.
-Melhore-o.
-```
-
 
 ## Contato
 
