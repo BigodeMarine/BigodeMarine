@@ -21,7 +21,7 @@
 
 ##  Sobre mim
 
-Sou **Desenvolvedor Full Stack Python**, atualmente direcionando meu foco para o desenvolvimento de APIs**.
+Sou **Desenvolvedor Full Stack Python**, atualmente direcionando meu foco para o **desenvolvimento de APIs**.
 
 Gosto de transformar problemas em soluções de software bem estruturadas, buscando escrever código **organizado, modular e de fácil manutenção**.
 
