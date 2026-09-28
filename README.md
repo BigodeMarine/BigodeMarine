@@ -21,11 +21,11 @@
 
 ##  Sobre mim
 
-Sou **Desenvolvedor Full Stack Python**, atualmente direcionando meu foco para o **desenvolvimento Web**.
+Sou **Desenvolvedor Full Stack Python**, atualmente direcionando meu foco para o **desenvolvimento Web.**
 
-Gosto de transformar problemas em soluções de software bem estruturadas, buscando escrever código **organizado, modular e de fácil manutenção**.
+Gosto de transformar problemas em soluções de software bem estruturadas, buscando escrever código organizado, modular e de fácil manutenção.
 
-Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem parte do desenvolvimento de aplicações modernas, desde a construção da API até **bancos de dados, estratégia de criação Mobile First, containers, testes, CI/CD e infraestrutura**.
+Tenho especial interesse pelo ecossistema Python e por tecnologias que fazem parte do desenvolvimento de **aplicações modernas**, desde a **construção de APIs** até bancos de dados, estratégia de desenvolvimento **Mobile First**, containers, testes, CI/CD e infraestrutura.
 
 ---
 
