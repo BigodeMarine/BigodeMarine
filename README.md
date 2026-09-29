@@ -108,7 +108,7 @@ Portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos
 
 `Next.js` `React` `TypeScript` `CSS Modules`
 
-🔗 **[Veja →](https://portfolio-full-stack-python.vercel.app)**
+🔗 **[Veja →](https://edson-garcia-portfolio.vercel.app)**
 
 ---
 
